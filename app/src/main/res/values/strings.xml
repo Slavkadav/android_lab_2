@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab_2</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="api_path">http://10.0.2.2:8080/questions/</string>
+</resources>
